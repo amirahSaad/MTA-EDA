@@ -3,7 +3,7 @@
 We have the client (NYC Emergency Management) and they has a Kids safety event in New York City each year, and to concurrently build awareness and reach for our event.
 And they order from us to help them to find which best station to the placement of their staff and volunteers to hand out preparedness publications and materials to the public.
 
-## Back story:
+## Backstory:
 
 NYC Emergency Management has an annual Kids safety event at the beginning of the September each year.
 hand out preparedness publications and materials at a public fair (the kids safety event).
@@ -14,7 +14,7 @@ Our task was to use subway data from NYC’s Metropolitan Transit Authority (MTA
 ## Setup:
 
 I will use the MTA metro turnstile database, And the database from (http://web.mta.info/developers/turnstile.html)
-The two months of April and May seem to be enough lead time before the September for people to be able to come to kids safety event into their calendar.
+The three months of June,July and Augest seem to be enough lead time before the September for people to be able to come to kids safety event into their calendar.
 
 ## Tools:
 
