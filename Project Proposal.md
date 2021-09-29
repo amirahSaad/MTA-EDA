@@ -5,7 +5,7 @@ And they order from us to help them to find which best station to the placement 
 
 ## Backstory:
 
-NYC Emergency Management has an annual Kids safety event at the beginning of the September each year.
+NYC Emergency Management has an annual Kids safety event at the end of the September each year.
 hand out preparedness publications and materials at a public fair (the kids safety event).
 and it's annual Kids Safety Event that talk about safety topics, including bicycle safety, bullying prevention, tips on staying safe while surfing the Internet..etc
 
