@@ -18,7 +18,7 @@ The three months of June,July and Augest seem to be enough lead time before the 
 
 ## Tools:
 
-I will use Numpy , panads, matplotlib, and seaborn.
+I will use Numpy , panads, matplotlib, seaborn and sql alchemy.
 
 ## Goals:
 
